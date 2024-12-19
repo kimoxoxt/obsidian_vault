@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"33438a08d33befb6","type":"group","x":-530,"y":-510,"width":1060,"height":1020,"label":"Componets"},
+		{"id":"f5d3b5e49a636140","type":"group","x":190,"y":-450,"width":260,"height":897,"label":"Component UI"},
+		{"id":"d3e5053d8f7ed7da","type":"group","x":-510,"y":-213,"width":320,"height":423,"label":"Web page"},
+		{"id":"18d00e38797e37ae","type":"group","x":210,"y":-370,"width":220,"height":157,"label":"아티클_01"},
+		{"id":"96bb931f3d614b06","type":"group","x":210,"y":-155,"width":220,"height":157,"label":"아티클_02"},
+		{"id":"1b4bbb716d9bf36b","type":"group","x":210,"y":50,"width":220,"height":157,"label":"아티클_03"},
+		{"id":"3f9be1173ae67092","type":"group","x":210,"y":270,"width":220,"height":157,"label":"아티클_04"},
+		{"id":"354b46fc3d9ca90a","type":"text","text":":react_react_brands_solid:아티클","x":-490,"y":-166,"width":241,"height":70},
+		{"id":"618595711b9d0d74","type":"text","text":":react_react_brands_solid:아티클","x":-490,"y":-51,"width":241,"height":101},
+		{"id":"ccca2a1efc1a6efd","type":"text","text":":react_react_brands_solid:아티클","x":-490,"y":90,"width":134,"height":60},
+		{"id":"4afb4683763497ea","type":"text","text":"아티클","x":230,"y":-340,"width":180,"height":50},
+		{"id":"b4ca73d6410822b1","type":"text","text":"내용","x":230,"y":-283,"width":180,"height":50},
+		{"id":"a2295dbed8a4f2ec","type":"text","text":"아티클","x":230,"y":-125,"width":180,"height":50},
+		{"id":"1350852c8c12402d","type":"text","text":"내용","x":230,"y":-68,"width":180,"height":50},
+		{"id":"67948f1f1da32fb7","type":"text","text":"아티클","x":230,"y":80,"width":180,"height":50},
+		{"id":"0fa07aab6094ea24","type":"text","text":"내용","x":230,"y":137,"width":180,"height":50},
+		{"id":"4eb336f9ede3aa3a","type":"text","text":"아티클","x":230,"y":300,"width":180,"height":50},
+		{"id":"d79c7e505220bb5f","type":"text","text":"내용","x":230,"y":357,"width":180,"height":50},
+		{"id":"16ec5cbfa04cceca","type":"text","text":"RestFul API \n **<span style=\"color:red\">JSON</spen>**\n\n- 연동되는 데이터는 개발이 필요하고  각 값은 바인드 하여 화면에 표시 될 수 있도록 해야함","x":-210,"y":-478,"width":300,"height":195},
+		{"id":"e2cd9e03b0c10b96","type":"text","text":":react_react_brands_solid:아티클","x":-344,"y":90,"width":134,"height":60}
+	],
+	"edges":[
+		{"id":"aa86b5471f74832c","fromNode":"18d00e38797e37ae","fromSide":"left","toNode":"354b46fc3d9ca90a","toSide":"right"},
+		{"id":"7003b7b0b04a02dc","fromNode":"96bb931f3d614b06","fromSide":"left","toNode":"618595711b9d0d74","toSide":"right"},
+		{"id":"23e791bdd7edc30f","fromNode":"1b4bbb716d9bf36b","fromSide":"left","toNode":"ccca2a1efc1a6efd","toSide":"bottom"},
+		{"id":"25232526018fc8b5","fromNode":"3f9be1173ae67092","fromSide":"left","toNode":"e2cd9e03b0c10b96","toSide":"right"}
+	]
+}

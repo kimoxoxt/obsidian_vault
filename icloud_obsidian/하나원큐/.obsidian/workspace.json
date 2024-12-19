@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "b5c33335f4de8506",
+    "type": "split",
+    "children": [
+      {
+        "id": "27c05ff701e9c72a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60f3d38fd3148fcf",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "통합관리.canvas",
+                "viewState": {
+                  "x": -477.8739493834373,
+                  "y": -735.2559060293079,
+                  "zoom": -0.6666666666666667
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "통합관리"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a8bd4238fc568fcb",
+    "type": "split",
+    "children": [
+      {
+        "id": "42e7f11baf024e81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d7f3c437a24912f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b0fe7829f875851e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fe9e978aec8297f7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7b130ad1b81d0194",
+    "type": "split",
+    "children": [
+      {
+        "id": "de872189f2518973",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f7b9149368aa6df",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "통합관리.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 통합관리"
+            }
+          },
+          {
+            "id": "f8560d9096afc462",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "통합관리.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 통합관리"
+            }
+          },
+          {
+            "id": "e51edd50a503f52b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6388164926888101",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "통합관리.canvas"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 통합관리"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "60f3d38fd3148fcf",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "통합관리.canvas",
+    "create a link.md"
+  ]
+}
