@@ -41,15 +41,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "하나원큐/통합관리.canvas",
+                "file": "하나원큐/통합관리_02.canvas",
                 "viewState": {
-                  "x": 522.6024421386176,
-                  "y": -1045.2426248981294,
-                  "zoom": -0.6666666666666665
+                  "x": 482.2434043339149,
+                  "y": 308.88489349912766,
+                  "zoom": -0.6666666666666666
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "통합관리"
+              "title": "통합관리_02"
             }
           },
           {
@@ -283,11 +283,17 @@
   },
   "active": "41ecb68d83f1af54",
   "lastOpenFiles": [
+    "하나원큐/통합관리_canvas/통합관리 기능 목록.md",
+    "하나원큐/통합관리_02.canvas",
+    "하나원큐/통합관리_01.canvas",
+    "하나원큐/하나원큐 잡동.md",
+    "하나원큐/통합관리_canvas/API Gateway.md",
+    "하나원큐/통합관리_canvas/Components.canvas",
+    "하나원큐/통합관리_canvas/react vs. thymeleaf.md",
     "2023-09-19.md",
     "스키장.md",
     "이행 점검.md",
     "tct.md",
-    "하나원큐/통합관리.canvas",
     "하나원큐/create a link.md",
     "하나원큐/Welcome.md",
     "하나원큐",
