@@ -11,6 +11,23 @@
             "id": "99acd899076cdd6c",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "하나원큐/CMS_iON.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "CMS_iON"
+            }
+          },
+          {
+            "id": "e12343857227797a",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "하나원큐/to-do.md",
@@ -21,7 +38,8 @@
               "title": "to-do"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,10 +191,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "99acd899076cdd6c",
+  "active": "e12343857227797a",
   "lastOpenFiles": [
     "하나원큐/통합관리_02.canvas",
     "하나원큐/to-do.md",
+    "하나원큐/CMS_iON.canvas",
     "tct.md",
     "스키장.md",
     "2023-09-19.md",

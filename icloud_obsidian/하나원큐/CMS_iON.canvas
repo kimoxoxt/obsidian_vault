@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"93fd3be6fdf7655c","type":"text","text":"아티클관리","x":620,"y":-380,"width":180,"height":60},
+		{"id":"668c61fe1f55f74b","type":"text","text":"제목","x":900,"y":-440,"width":180,"height":60},
+		{"id":"d74d1fe126f28d83","type":"text","text":"내용","x":900,"y":-350,"width":180,"height":60},
+		{"id":"fa646f84b4777b19","type":"text","text":"CMS 하나은행 iCS\n","x":-300,"y":-350,"width":231,"height":314,"color":"2"},
+		{"id":"f967ac641a7d9013","type":"text","text":"배포 하나은행 iDS\n","x":-300,"y":133,"width":231,"height":314,"color":"2"},
+		{"id":"bd86bd594d3a806f","type":"text","text":"컨튼츠목록","x":0,"y":-280,"width":180,"height":60},
+		{"id":"bdc3aac94b16b2c3","type":"text","text":"컨텐츠목록","x":0,"y":160,"width":180,"height":60},
+		{"id":"fd7d3ba7a15f9d5a","type":"text","text":"컨튼츠상세","x":280,"y":-380,"width":180,"height":60},
+		{"id":"971c27875bde41a1","type":"text","text":"컨튼츠상세","x":280,"y":160,"width":180,"height":60},
+		{"id":"847bf3bb73d17926","type":"text","text":"파일","x":620,"y":-163,"width":180,"height":60},
+		{"id":"bd85a62a55f70b19","type":"text","text":"배포요청","x":580,"y":160,"width":180,"height":60},
+		{"id":"29a7bc2ec4e5e09e","type":"text","text":"검증배포(jsp파일)","x":880,"y":160,"width":180,"height":60},
+		{"id":"08d7d60221ca0bb2","type":"text","text":"운영배포(묶음 파일 unpack)","x":1160,"y":160,"width":180,"height":60}
+	],
+	"edges":[
+		{"id":"8e64b6c0a1559435","fromNode":"fa646f84b4777b19","fromSide":"right","toNode":"bd86bd594d3a806f","toSide":"left"},
+		{"id":"99a901664cd0c2d7","fromNode":"668c61fe1f55f74b","fromSide":"left","toNode":"93fd3be6fdf7655c","toSide":"right"},
+		{"id":"bd3781e292c89825","fromNode":"d74d1fe126f28d83","fromSide":"left","toNode":"93fd3be6fdf7655c","toSide":"right"},
+		{"id":"3c79fd77bb61b77b","fromNode":"bd86bd594d3a806f","fromSide":"right","toNode":"fd7d3ba7a15f9d5a","toSide":"left"},
+		{"id":"2316bead72c0d6a8","fromNode":"93fd3be6fdf7655c","fromSide":"left","toNode":"fd7d3ba7a15f9d5a","toSide":"right"},
+		{"id":"2c91926843fe9405","fromNode":"847bf3bb73d17926","fromSide":"left","toNode":"fd7d3ba7a15f9d5a","toSide":"right"},
+		{"id":"63bc98edc968d004","fromNode":"f967ac641a7d9013","fromSide":"right","toNode":"bdc3aac94b16b2c3","toSide":"left"},
+		{"id":"6ebc6c1286f9f2a9","fromNode":"bdc3aac94b16b2c3","fromSide":"right","toNode":"971c27875bde41a1","toSide":"left"},
+		{"id":"804650f8e586e340","fromNode":"971c27875bde41a1","fromSide":"right","toNode":"bd85a62a55f70b19","toSide":"left"},
+		{"id":"36ae45dfcf9c6012","fromNode":"bd85a62a55f70b19","fromSide":"right","toNode":"29a7bc2ec4e5e09e","toSide":"left"},
+		{"id":"b400ea47687d61ad","fromNode":"29a7bc2ec4e5e09e","fromSide":"right","toNode":"08d7d60221ca0bb2","toSide":"left"}
+	]
+}
